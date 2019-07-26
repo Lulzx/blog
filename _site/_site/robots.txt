@@ -1,6 +1,0 @@
-User-Agent: *
-Disallow: /.bundle/
-Disallow: /.gitignore
-Allow: /
-
-Sitemap: https://lulzx.github.io/sitemap.xml
