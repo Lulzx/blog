@@ -7,6 +7,6 @@ external-url:
 categories: life
 ---
 
-## This is good, yes so good, awesome thing. o rly? ya rly.
+This is good, yes so good, awesome thing. o rly? ya rly.
 
 My first blog post. Nothing amusing here.
