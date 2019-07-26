@@ -3,10 +3,10 @@
   <channel>
     <title>On Software Engineering, Mathematics and Philosophy</title>
     <description>This is a blog about software, some mathematics, and the occasional philosophy. Not necessarily in that order.</description>
-    <link>https://lulzx.github.io/</link>
-    <atom:link href="https://lulzx.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jul 2019 16:05:28 +0530</pubDate>
-    <lastBuildDate>Fri, 26 Jul 2019 16:05:28 +0530</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 Jul 2019 16:21:20 +0530</pubDate>
+    <lastBuildDate>Fri, 26 Jul 2019 16:21:20 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;My first blog post. Nothing amusing here.&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Jul 2019 12:30:00 +0530</pubDate>
-        <link>https://lulzx.github.io/blog/2019/07/26/firstpost/</link>
-        <guid isPermaLink="true">https://lulzx.github.io/blog/2019/07/26/firstpost/</guid>
+        <link>http://localhost:4000/blog/2019/07/26/First-Post/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/07/26/First-Post/</guid>
         
         
         <category>life</category>
