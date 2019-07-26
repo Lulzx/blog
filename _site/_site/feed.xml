@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>On Software Engineering, Mathematics and Philosophy</title>
+    <description>This is a blog about software, some mathematics, and the occasional philosophy. Not necessarily in that order.</description>
+    <link>https://lulzx.github.io/</link>
+    <atom:link href="https://lulzx.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 Jul 2019 15:55:31 +0530</pubDate>
+    <lastBuildDate>Fri, 26 Jul 2019 15:55:31 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Hello, World!</title>
+        <description>&lt;h2 id=&quot;this-is-good-yes-so-good-awesome-thing-o-rly-ya-rly&quot;&gt;This is good, yes so good, awesome thing. o rly? ya rly.&lt;/h2&gt;
+
+&lt;p&gt;My first blog post. Nothing amusing here.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Jul 2019 12:30:00 +0530</pubDate>
+        <link>https://lulzx.github.io/blog/2019/07/26/firstpost/</link>
+        <guid isPermaLink="true">https://lulzx.github.io/blog/2019/07/26/firstpost/</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+  </channel>
+</rss>

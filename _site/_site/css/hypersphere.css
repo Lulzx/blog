@@ -1,0 +1,25 @@
+#statistics span { color: #c72323; }
+
+#hitmap { display: inline-flex; width: 300px; height: 300px; }
+#hitmap .bin.normal { opacity: 0.4; fill: #757575; }
+#hitmap .bin.highlighted { opacity: .6; fill: #c72323; }
+#hitmap circle.border { fill: #757575; stroke-width: 1px; stroke: #3d3d3d; transition: opacity .5s; opacity: .2; }
+#hitmap circle.border:hover { transition: opacity .5s; opacity: .8; }
+#hitmap circle.outer-circle { fill: none; stroke-width: 1px; stroke: #3d3d3d; stroke-dasharray: 4px; opacity: .3; }
+#hitmap .axis { font-family: "Merriweather", Georgia, Times, "Times New Roman", serif; transition: opacity .5s; opacity: .3; }
+#hitmap .axis:hover { transition: opacity .5s; opacity: 0.5; }
+#hitmap svg { width: 100%; height: 100%; }
+
+#histogram { display: inline-flex; width: 320px; height: 150px; background-color: none; }
+#histogram svg { width: 100%; height: 100%; }
+#histogram .axis { font-family: "Merriweather", Georgia, Times, "Times New Roman", serif; transition: opacity .5s; opacity: .3; }
+#histogram .axis:hover { transition: opacity .5s; opacity: .5; }
+#histogram .bar rect { fill: #c72323; }
+#histogram .bar rect:hover { fill: #9c1c1c; }
+#histogram .bar text { font-size: 6pt; opacity: 0.5; }
+
+#statistics { width: 320px; height: 150px; color: rgba(0, 0, 0, 0.5); padding: 25px; padding-top: 25px; font-size: 12px; }
+
+.h-vis { width: 300px; flex-wrap: wrap; display: flex; flex-direction: column; }
+
+.visualization { width: 100%; display: flex; flex-wrap: wrap; justify-content: center; padding: 1em; padding-left: 20px; padding-right: 20px; padding-bottom: 30px; border-radius: 10px; background-color: #ebebeb; margin-bottom: 1em; }

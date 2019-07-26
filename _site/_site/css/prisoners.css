@@ -1,0 +1,9 @@
+#histogram { font-family: "Merriweather", Georgia, Times, "Times New Roman", serif; background-color: #ebebeb; padding: 1em; margin-top: 1em; margin-bottom: 1em; border-radius: 10px; width: 100%; height: 300px; }
+#histogram svg { width: 100%; height: 100%; }
+#histogram svg .x-marker { stroke: black; stroke-width: 1; stroke-dasharray: 5; stroke-opacity: 0.4; }
+#histogram .n-simulations { fill: black; font-size: 13px; font-family: "Merriweather", Georgia, Times, "Times New Roman", serif; }
+#histogram .bar text { fill: #ebebeb; font-size: 10px; font-family: "Merriweather", Georgia, Times, "Times New Roman", serif; }
+#histogram .bar rect { fill: #c72323; shape-rendering: crispEdges; }
+#histogram .bar rect:hover { fill: #9c1c1c; }
+#histogram .axis { font-family: "Merriweather", Georgia, Times, "Times New Roman", serif; transition: opacity 0.5s; opacity: 0.3; }
+#histogram .axis:hover { transition: opacity 0.5s; opacity: 0.5; }
