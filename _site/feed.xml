@@ -3,21 +3,40 @@
   <channel>
     <title>On Software Engineering, Mathematics and Philosophy</title>
     <description>This is a blog about software, some mathematics, and the occasional philosophy. Not necessarily in that order.</description>
-    <link>http://localhost:4000/blog/</link>
-    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jul 2019 16:39:55 +0530</pubDate>
-    <lastBuildDate>Fri, 26 Jul 2019 16:39:55 +0530</lastBuildDate>
+    <link>https://lulzx.github.io/blog/</link>
+    <atom:link href="https://lulzx.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Jul 2019 12:06:03 +0530</pubDate>
+    <lastBuildDate>Sat, 27 Jul 2019 12:06:03 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Hello, World!</title>
-        <description>&lt;h2 id=&quot;this-is-good-yes-so-good-awesome-thing-o-rly-ya-rly&quot;&gt;This is good, yes so good, awesome thing. o rly? ya rly.&lt;/h2&gt;
+        <description>&lt;p&gt;Writing down my thoughts feels good, so good, awesome thing!&lt;/p&gt;
 
-&lt;p&gt;My first blog post. Nothing amusing here.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    ___      ___        ___
+   {o,o}   {o.o}    {o,o}
+   |)__)    |)_(|     (__(|
+  --&quot;-&quot;------&quot;-&quot;-------&quot;-&quot;--
+  O RLY?  YA RLY   NO WAI!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This world is huge, I love it when someone writes what I’m thinking about writing. The same happens almost everytime when any ideas come to my mind, I look up about it on the internet and find out that people have spent time on this figuring out the solutions and developing them. I used to consider this in different manner but now I think about this in a positive way.&lt;/p&gt;
+
+&lt;p&gt;This blog will be the place to post links which I find relevant and interesting.
+It particularly boils down to two things.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The stuff what I do want to learn about and Insightful thoughts on what I already know.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I never felt the need to have a blog because of using Telegram channels to dump links, thoughts and plans.
+But, In the past few days, I felt a desire to do this.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This will be a good start, I am excited, Yay!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Jul 2019 12:30:00 +0530</pubDate>
-        <link>http://localhost:4000/blog/2019/07/26/First-Post/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/07/26/First-Post/</guid>
+        <link>https://lulzx.github.io/blog/2019/07/26/Hello-World/</link>
+        <guid isPermaLink="true">https://lulzx.github.io/blog/2019/07/26/Hello-World/</guid>
         
         
         <category>life</category>
