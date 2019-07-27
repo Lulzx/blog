@@ -17,7 +17,7 @@ Writing down my thoughts feels good, so good, awesome thing!
   O RLY?  YA RLY   NO WAI!
 ```
 
-This world is huge, I love it when someone writes what I’m thinking about writing. The same happens almost everytime when any ideas come to my mind, I look up about it on the internet and find out that people have spent time on this figuring out the solutions and developing them. I used to consider this in different manner but now I think about this in a positive way.
+This world is huge, I love it when someone writes what I’m thinking about writing. The same happens whenever any ideas come to my mind, I look up about it on the internet and find out that people have spent time on this figuring out the solutions and developing them. I used to consider this differently but now I positively think about this.
 
 
 This blog will be the place to post links which I find relevant and interesting.
@@ -25,7 +25,7 @@ It particularly boils down to two things.
 
 > The stuff what I do want to learn about and Insightful thoughts on what I already know.
 
-I never felt the need to have a blog because of using Telegram channels to dump links, thoughts and plans.
+I never felt the need to have a blog because of using Telegram channels to dump links, thoughts, and plans.
 But, In the past few days, I felt a desire to do this.
 
 *This will be a good start, I am excited, Yay!*
