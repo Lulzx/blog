@@ -4,17 +4,13 @@ author: "Lulzx"
 description: "This is a blog about software, some mathematics, and the occasional philosophy. Not necessarily in that order."
 keywords: "Software Engineering, Mathematics, Philosophy, Epistemology, Existentialism, Programming, Machine-Learning, Artificial Intelligence, Statistics, Probability, Puzzles"
 biography: "I am a computer science student from South Asia. Here you can <a href='https://t.me/lulzx'>Talk to me</a>."
-colophon: "© MMXIX by Lulzx.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/''>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>This site is hosted at <a href='https://pages.github.com/''>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a> and <a href='http://getbootstrap.com'>Bootstrap</a>."
+colophon: "© MMXX by Lulzx.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/''>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>This site is hosted at <a href='https://pages.github.com/''>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a> and <a href='http://getbootstrap.com'>Bootstrap</a>."
 
 baseurl: "/blog"
 url: "https://lulzx.github.io"
 
-twitter_username: lulzx
+twitter_username: slitdrip
 github_username: lulzx
-linkedin_username: lulzx
-facebook_username: lulzx
-instagram_username: lulzx
-500px_username: lulzx
 
 google-analytics: xxx
 
