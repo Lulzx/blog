@@ -11,7 +11,7 @@ Writing down my thoughts feels good, so good, awesome thing!
 
 ```
     ___      ___       ___
-   {o,o}   {o.o}    {o,o}
+   {o,o}    {o.o}     {o,o}
    |)__)    |)_(|     (__(|
   --"-"------"-"-------"-"--
   O RLY?  YA RLY   NO WAI!
