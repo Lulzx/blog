@@ -30,7 +30,13 @@ Language can also play a role in how we perceive and experience altered states o
 
 Moreover, the way we talk about psychedelics and altered states of consciousness in society can have a significant impact on how they are perceived and accepted. The use of psychedelic substances has long been stigmatized and criminalized, but as **research continues to shed light on their potential benefits**, attitudes are starting to shift.
 
+&nbsp;
+&nbsp;
+
 ---
+
+&nbsp;
+&nbsp;
 
 Let's take a trip down the rabbit hole, shall we? Altered reality is a wild ride, and the experiences that come with it can be **just as mind-bending as they are awe-inspiring**.
 
@@ -42,7 +48,13 @@ Of course, not all experiences of altered reality are positive. Some people repo
 
 But for those who are willing to take the plunge, altered reality can be a playful and transformative experience. Who knows what kind of insights or epiphanies you might have when you let go of the familiar and embrace the unknown?
 
---- 
+&nbsp;
+&nbsp;
+
+---
+
+&nbsp;
+&nbsp;
 
 Alright, buckle up, because we're about to take a trip through the wild world of psychedelics. There are a lot of different types of psychedelics out there, and each one comes with its own unique set of experiences. Let's take a look at some of the most popular ones, shall we?
 
@@ -60,8 +72,13 @@ Moving on, we have [DMT](https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine), 
 And last but not least, we have the up-and-coming star of the psychedelic world, [ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca). This brew has been used for centuries by indigenous communities in the Amazon, and is known for its intense and transformative experiences. You might feel like you're confronting your deepest fears and traumas, or like you're being initiated into a secret society. Just make sure you've got a strong stomach, because the taste can be pretty gnarly.
 
 
+&nbsp;
+&nbsp;
+
 ---
 
+&nbsp;
+&nbsp;
 
 One of the most interesting effects of psychedelics is the phenomenon of [ego dissolution](https://en.wikipedia.org/wiki/Ego_death) and a sense of profound interconnectedness with the world around us.
 
@@ -74,8 +91,13 @@ For many people, the experience of ego dissolution can be both exhilarating and 
 But for those who are willing to embrace the experience, ego dissolution can be a powerful tool for personal growth and transformation. By breaking down the barriers between ourselves and the world, we can gain new insights and perspectives, and come to a deeper understanding of ourselves and our place in the universe.
 
 
+&nbsp;
+&nbsp;
+
 ---
 
+&nbsp;
+&nbsp;
 
 ### Potential benefits:
 
