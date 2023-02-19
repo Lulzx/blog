@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Language and Consciousness!"
+title: "Language and Consciousness"
 date: 2023-02-19 02:30
 comments: true
 external-url:
