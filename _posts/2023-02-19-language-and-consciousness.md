@@ -4,7 +4,7 @@ title: "Language and Consciousness!"
 date: 2023-02-19 02:30
 comments: true
 external-url:
-categories: language, philosophy, psychedelics
+categories: philosophy
 ---
 
 Language is not merely a tool for communication, but a means by which we construct and shape our **perception of reality**. It provides us with a framework of meaning and concepts, through which we are able to interpret our experiences and make sense of the world.
