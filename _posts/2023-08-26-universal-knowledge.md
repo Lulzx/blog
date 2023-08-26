@@ -14,11 +14,6 @@ One of the things I like the most is to learn new things, and I am always lookin
 &nbsp;
 &nbsp;
 
----
-
-&nbsp;
-&nbsp;
-
 A question came to mind. I asked myself:
 
 > "What is the most important thing to learn?"
