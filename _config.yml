@@ -21,3 +21,5 @@ permalink: /:year/:month/:day/:title/
 
 plugins:
 - jekyll-sitemap
+
+future: true
