@@ -18,7 +18,6 @@ A question came to mind. I asked myself:
 > "What is the most important thing to learn?"
 
 &nbsp;
-&nbsp;
 
 I have been thinking about this for a long time, and I have found the answer.
 
@@ -26,7 +25,6 @@ The answer is:
 
 > **Universal Knowledge**
 
-&nbsp;
 &nbsp;
 
 It is the knowledge that is true for all people, at all times, in all places.
@@ -40,7 +38,6 @@ Yet, the way we perceive and process the information alters its form and applica
 This individualistic view of knowledge centers the universe within our consciousness.
 
 &nbsp;
-&nbsp;
 
 Reality is partly an internal construct.
 
@@ -51,7 +48,6 @@ This mental model is the foundation of our understanding of the world.
 It becomes our personality, our identity, and our worldview.
 
 &nbsp;
-&nbsp;
 
 Universal Knowledge is our insights regardless of culture, religion, or geographical location.
 
@@ -59,7 +55,6 @@ It is the foundation of all knowledge.
 
 We get knowledge through our senses, and we process it through our minds.
 
-&nbsp;
 &nbsp;
 
 Our medium of thought and expression is the language.
@@ -81,7 +76,6 @@ They apply to all people, at all times, in all places.
 They are the foundation of all knowledge.
 
 &nbsp;
-&nbsp;
 
 Once you have covered the basics, you can build upon them to learn more advanced topics.
 
@@ -96,7 +90,6 @@ These are the subjects that build up the foundation of Universal Knowledge.
 
 The more you learn, the more you realize how much you don't know.
 
-&nbsp;
 &nbsp;
 
 Knowledge is like the vivid spectrum of colors we see.
