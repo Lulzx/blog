@@ -12,16 +12,10 @@ Learning is fascinating!
 One of the things I like the most is to learn new things, and I am always looking for new things to learn.
 
 &nbsp;
-&nbsp;
 
 A question came to mind. I asked myself:
 
 > "What is the most important thing to learn?"
-
-&nbsp;
-&nbsp;
-
----
 
 &nbsp;
 &nbsp;
@@ -31,11 +25,6 @@ I have been thinking about this for a long time, and I have found the answer.
 The answer is:
 
 > **Universal Knowledge**
-
-&nbsp;
-&nbsp;
-
----
 
 &nbsp;
 &nbsp;
@@ -53,11 +42,6 @@ This individualistic view of knowledge centers the universe within our conscious
 &nbsp;
 &nbsp;
 
----
-
-&nbsp;
-&nbsp;
-
 Reality is partly an internal construct.
 
 Over a lifetime, we build a mental model of the world, and we use it to make sense of the world.
@@ -69,21 +53,11 @@ It becomes our personality, our identity, and our worldview.
 &nbsp;
 &nbsp;
 
----
-
-&nbsp;
-&nbsp;
-
 Universal Knowledge is our insights regardless of culture, religion, or geographical location.
 
 It is the foundation of all knowledge.
 
 We get knowledge through our senses, and we process it through our minds.
-
-&nbsp;
-&nbsp;
-
----
 
 &nbsp;
 &nbsp;
@@ -109,11 +83,6 @@ They are the foundation of all knowledge.
 &nbsp;
 &nbsp;
 
----
-
-&nbsp;
-&nbsp;
-
 Once you have covered the basics, you can build upon them to learn more advanced topics.
 
 - Artificial Intelligence and Machine Learning
@@ -126,11 +95,6 @@ Once you have covered the basics, you can build upon them to learn more advanced
 These are the subjects that build up the foundation of Universal Knowledge.
 
 The more you learn, the more you realize how much you don't know.
-
-&nbsp;
-&nbsp;
-
----
 
 &nbsp;
 &nbsp;
