@@ -3,6 +3,7 @@ layout: post
 title: "Universal Knowledge"
 date: 2023-08-26 12:00
 comments: true
+external-url:
 categories: philosophy
 ---
 
